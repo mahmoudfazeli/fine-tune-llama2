@@ -1,0 +1,2 @@
+transformers==4.31.0
+datasets[s3]==2.13.0
